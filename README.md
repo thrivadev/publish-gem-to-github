@@ -1,3 +1,5 @@
+# 🚨 This is a public repo 🚨
+
 # Release Ruby Gem to GitHub Packages
 This action builds the gems for all `.gemspec` files in the projects root and uploads them to [GitHub Packages](https://github.com/features/packages) (or optionally specify a subdirectory to build from).
 
